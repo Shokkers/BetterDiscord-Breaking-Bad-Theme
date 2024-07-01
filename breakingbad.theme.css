@@ -1,0 +1,48 @@
+/**
+ * @name Breaking Bad
+ * @author shokkers.
+ * @version 2.0.0
+ * @description this theme is made from the famous series breaking bad, if you like the series, this theme is for you!
+ * @source  * @website https://github.com/Shokkers/BetterDiscord-Breaking-Bad-Theme
+ * @authorId 831883241350234122
+ * @BDEditor Shokkers
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/EJXfZo3.png');
+  --background-image-blur: 1px;
+  --background-image-size: contain;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/nlvwmO4.jpg');
+  --popout-image-blur: 1px;
+  --popout-image-size: contain;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/QpFMCIu.png');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: contain;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/EGQaNud.png');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.9;
+  --left-brightness: 0.78;
+  --middle-brightness: 0.68;
+  --right-brightness: 0.66;
+  --overlay-brightness: 0.68;
+  --gradient-primary: 61,17,138;
+  --gradient-secondary: 1,9,48;
+  --link-colour: #30802B;
+  --scrollbar-colour: rgb(44,44,44,0.45);
+  --gradient-direction: 186deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0.4;
+  --font: gg sans;
+  --window-padding: 0px;
+  --window-roundness: 2px;
+  --update-notice-1: none;
+}
+
+
