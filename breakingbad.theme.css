@@ -3,7 +3,6 @@
  * @author shokkers.
  * @version 2.0.0
  * @description this theme is made from the famous series breaking bad, if you like the series, this theme is for you!
- * @source  * @website https://github.com/Shokkers/BetterDiscord-Breaking-Bad-Theme
  * @authorId 831883241350234122
  * @BDEditor Shokkers
 */
@@ -12,19 +11,19 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://i.imgur.com/EJXfZo3.png');
+  --background-image: url('https://i.imgur.com/OKG4fjl.png');
   --background-image-blur: 1px;
   --background-image-size: contain;
   --background-image-position: center;
-  --popout-image: url('https://i.imgur.com/nlvwmO4.jpg');
+  --popout-image: url('https://i.imgur.com/5ypD1WB.jpg');
   --popout-image-blur: 1px;
   --popout-image-size: contain;
   --popout-image-position: center;
-  --overlay-image: url('https://i.imgur.com/QpFMCIu.png');
+  --overlay-image: url('https://i.imgur.com/D3fakOA.png');
   --overlay-image-blur: 5px;
   --overlay-image-size: contain;
   --overlay-image-position: center;
-  --home-button-image: url('https://i.imgur.com/EGQaNud.png');
+  --home-button-image: url('https://i.imgur.com/ClzKKTc.png');
   --home-button-size: cover;
   --home-button-position: center;
   --serverlist-brightness: 0.9;
@@ -45,4 +44,5 @@
   --update-notice-1: none;
 }
 
+/* Any custom CSS below here */
 
